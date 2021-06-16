@@ -43,6 +43,11 @@ Being a junior, learning is very important to me, I am constantly learning ingen
 -Framework Javascript
 -Module Bundler
 -Transpiler 
+-Accessibility
+-Optimization
+
+
+
 
 
 
