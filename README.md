@@ -45,6 +45,10 @@ Being a junior, learning is very important to me, I am constantly learning ingen
 -Transpiler 
 -Accessibility
 -Optimization
+-SMACSS
+-OBCSS
+-Material Design
+
 
 
 
