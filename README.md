@@ -8,46 +8,46 @@ Being a junior, learning is very important to me, I am constantly learning ingen
 
 # Backend Skills
 
-| Database  	|
-| ------------- | 
-| ER Diagram desigining	|
-| ER diagram converting into a relational database schema	|
-| Optimized and maintenable database schema conception	|
+| Database  	  | Level         |
+| ------------- | ------------- |  
+| ER Diagram desigining	| ⭐ | 
+| ER diagram converting into a relational database schema	| ⭐ |
+| Optimized and maintenable database schema conception	| ⭐⭐ |
 
-| API  	|
-| ------------- | 
-| Restful API Conception	|
-| Authentication method engineering	|
-| Http based session paradigms	|
+| API  	| Level |
+| ------------- | ------------- |  
+| Restful API Conception	| ⭐⭐⭐ |
+| Authentication method engineering	| ⭐⭐ |
+| Http based session paradigms	| ⭐⭐ |
 
-| Network  	|
-| ------------- | 
-| OSI	|
-| TCP/IP	|
-| Local Network	|
+| Network  	| Level |
+| ------------- | ------------- | 
+| OSI	| ⭐ |
+| TCP/IP	| ⭐ |
+| Local Network	| ⭐ |
 
 
-| Security  	|
-| ------------- | 
-| Signing Algorithm and Signing philosophy	|
-| Hashing Algorithm and Hashing philosophy	|
-| Cipher Algorithm and Cipher philosophy	|
-| Injection vulnerabilities	|
-| Authentication vulnerabilities |
-| Access Control Paradigm	|
-| Business Logic Security	|
-| OWASP Conception |
+| Security  	| Level |
+| ------------- | ------------- | 
+| Signing Algorithm and Signing philosophy	| ⭐⭐ |
+| Hashing Algorithm and Hashing philosophy	| ⭐⭐ |
+| Cipher Algorithm and Cipher philosophy	| ⭐⭐ |
+| Injection vulnerabilities	| ⭐⭐ |
+| Authentication vulnerabilities | ⭐⭐ |
+| Access Control Paradigm	| ⭐⭐ |
+| Business Logic Security	| ⭐⭐ |
+| OWASP Conception | ⭐⭐⭐ |
 
 # Frontend Skills
 
--Framework Javascript
--Module Bundler
--Transpiler 
--Accessibility
--Optimization
--SMACSS
--OBCSS
--Material Design
+| Skills        | Level         |
+| ------------- | ------------- |
+| Javascript Framework              |  ⭐⭐⭐             |
+| Module Bundler             | ⭐⭐⭐              |
+| Optimization             |  ⭐⭐            |
+| Accessibiliy             | ⭐⭐⭐              |
+| SMACSS             | ⭐⭐⭐              |
+
 
 
 
