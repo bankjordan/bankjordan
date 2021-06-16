@@ -37,3 +37,14 @@ Being a junior, learning is very important to me, I am constantly learning ingen
 | Access Control Paradigm	|
 | Business Logic Security	|
 | OWASP Conception |
+
+# Frontend Skills
+
+-Framework Javascript
+-Module Bundler
+-Transpiler 
+
+
+
+
+
