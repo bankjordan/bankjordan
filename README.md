@@ -8,6 +8,8 @@ Being a junior, learning is very important to me, I am constantly learning ingen
 
 # Backend Skills
 
+As a junior developer, I have to think about server side issues. That's why, well before thinking about the programming language, I do my best to master 100% the key concepts.
+
 | Database  	  | Level         |
 | ------------- | ------------- |  
 | ER Diagram desigining	| ⭐ | 
@@ -29,16 +31,19 @@ Being a junior, learning is very important to me, I am constantly learning ingen
 
 | Security  	| Level |
 | ------------- | ------------- | 
-| Signing Algorithm and Signing philosophy	| ⭐⭐ |
-| Hashing Algorithm and Hashing philosophy	| ⭐⭐ |
-| Cipher Algorithm and Cipher philosophy	| ⭐⭐ |
+| Signing Algorithm	| ⭐⭐ |
+| Hashing Algorithm	| ⭐⭐ |
+| Cipher Algorithm	| ⭐⭐ |
 | Injection vulnerabilities	| ⭐⭐ |
 | Authentication vulnerabilities | ⭐⭐ |
 | Access Control Paradigm	| ⭐⭐ |
 | Business Logic Security	| ⭐⭐ |
 | OWASP Conception | ⭐⭐⭐ |
 
+
 # Frontend Skills
+
+The front end is also important, the appearance of a site makes the brand image of a company. For me, a web page should not only be beautiful, but also clearly define the product solution and especially respect the standards of accessibility, optimization and referencing. 
 
 | Skills        | Level         |
 | ------------- | ------------- |
@@ -47,6 +52,14 @@ Being a junior, learning is very important to me, I am constantly learning ingen
 | Optimization             |  ⭐⭐            |
 | Accessibiliy             | ⭐⭐⭐              |
 | SMACSS             | ⭐⭐⭐              |
+| Accessiblity             | ⭐⭐⭐              |
+| Optimization             | ⭐⭐             |
+
+
+# Follow me 
+
+I regularly share what I learn on social networks. Feel free to follow me and read my articles on different topics. Sharing what I learn allows me to consolidate my skills and help people 
+
 
 
 
