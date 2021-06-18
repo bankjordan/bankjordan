@@ -58,10 +58,11 @@ The front end is also important, the appearance of a site makes the brand image 
 
 # Follow me 
 
-I regularly share what I learn on social networks. Feel free to follow me and read my articles on different topics. Sharing what I learn allows me to consolidate my skills and help people 
+I am currently looking for opportunities in the sector, if my profile interests you, I invite you to follow me to see my different projects and learn more about my way of coding. I regularly share what I learn on social networks. Feel free to follow me and read my articles on different topics. Sharing what I learn allows me to consolidate my skills and help people 
 
-
-
+- [Blog](https://example.com/)
+- [Portfolio](https://example.com)
+- [Linkedin](https://exmaple.com)
 
 
 
